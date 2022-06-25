@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ervin.</h1>
-<h3 align="center">A software developer focused on full-stack web applications, with a mission to make life easier to navigate and is passionate about learning . Whether it’s learning a new framework or learning to do something I’ve never done, I scavenge for answers where ever I can find them. I’ve had the opportunity to wear different hats throughout my life and career, and the one thing that has been a constant everywhere I’ve been has been optimization. And that's what my goal is when writing code.</h3>
+<h1 align="center">Hi 👋, I'm Ervin</h1>
+<h3 align="center">A software developer focused on full-stack web applications, with a mission to make life easier to navigate and is passionate about learning . Whether it’s learning a new framework or learning to do something I’ve never done, I scavenge for answers where ever I can find them. I’ve had the opportunity to wear different hats throughout my life and career, and the one thing that has been a constant everywhere I’ve been has been optimization. That's what my goal is when writing code.</h3>
 
 - 🔭 I’m currently working on [a client site for an auto detailing business.](www.preferredautospa.com)
 
