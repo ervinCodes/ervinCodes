@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ervin</h1>
 <h3 align="center">A software developer focused on full-stack web applications, with a mission to make life easier to navigate and is passionate about learning . Whether it’s learning a new framework or learning to do something I’ve never done, I scavenge for answers where ever I can find them. I’ve had the opportunity to wear different hats throughout my life and career, and the one thing that has been a constant everywhere I’ve been has been optimization. That's what my goal is when writing code.</h3>
 
-- 🔭 I’m currently working on [a client site for an auto detailing business.](www.preferredautospa.com)
+- 🔭 I’m currently working on a fitness app that keeps track of your reps, sets, weights and PR's.
 
-- 🌱 I’m currently learning **Javascript, React.js, API's**
+- 🌱 I’m currently learning **React.js, Node.js, Express & MongoDB**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
@@ -14,6 +14,94 @@
 - 📫 You can reach me at: **ean1207@gmail.com**
 
 - ⚡ Fun fact **My birthday lands on the first day of spring ;)**
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">The Daily Grind</h3>
+        <br />
+        <a target="_blank" href="https://thedaily-grind.netlify.app/">
+            <img src="https://media.giphy.com/media/oHVwHtlRpTr43O4ik8/giphy.gif" width="100%" alt="Cafe Site"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/pointblank3d/The-Daily-Grind" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://thedaily-grind.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>
+          <b>Bootstrap, Sass & Javascript</b> - A simply designed Cafe landing page that allows customers to
+             view menu items with an option to fill out a contact form for
+             weekly newsletters.
+        </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Preferred Auto Spa</h3>
+        <br />
+      <a target="_blank" href="https://www.preferredautospa.com">
+            <img src="https://media.giphy.com/media/kk17SqHqmfytgvZqSN/giphy.gif" width="100%"  alt="Auto Detail Site"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ervn12/preferredAutoSpa2" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://www.preferredautospa.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>
+                  <b>HTML5, CSS3 & JavaScript</b> - A fully responsive, modern website for an auto detailing
+                  business that shares tiered packages for potential customers.
+                </p>>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+      <br />
+        <a target="_blank" href="https://dev-ervin.netlify.app/">
+          <img src="https://media.giphy.com/media/bLQ6ITkWJPVQxrOrJ1/giphy.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/ervn12/myPortfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://dev-ervin.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Star Trek - A Field Guide to Aliens</h3>
+        <br />
+        <a target="_blank" href="https://star-trek-aliens-guide.netlify.app/">
+          <img src="https://media.giphy.com/media/txG49WSDMlTnZ0QXYe/giphy.gif" width="100%" alt="Star Trek App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ervn12/star-trek-CLIENT" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://star-trek-aliens-guide.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
