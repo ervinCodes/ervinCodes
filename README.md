@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ervin</h1>
-<h3 align="center">A software engineer with a focus on full-stack web applications. I am passionate about learning and have a mission to make life easier and more accessible for everyone. I enjoy building websites for small businesses, web applications, and bringing my visions to life through code. When I'm not coding I enjoy drinking cold brew, working out, playing video games and hanging out.</h3>
+<h3 align="center">A full-stack web developer with a focus on full-stack web applications. I am passionate about learning and have a mission to make life easier and more accessible for everyone. I enjoy building websites for small businesses, web applications, and bringing my visions to life through code. When I'm not coding I enjoy drinking cold brew, working out, playing video games and hanging out.</h3>
 
 - 🔭 I’m currently working on a fitness app that keeps track of your reps, sets, weights and PR's.
 
