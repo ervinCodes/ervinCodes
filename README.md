@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a fitness app that keeps track of your reps, sets, weights and PR's.
 
-- 🌱 I’m currently learning **React.js, Node.js, Express & MongoDB**
+- 🌱 I’m currently learning **PHP, MySQL, React.js, Node.js, Express & MongoDB**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
