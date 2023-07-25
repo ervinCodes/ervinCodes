@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 👨‍💻 All of my projects are available at [https://dev-ervin.netlify.app/](https://dev-ervin.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ervin-dev.netlify.app/](https://ervin-dev.netlify.app/)
 
 - 💬 Ask me about **anything!**
 
 - 📫 You can reach me at: **ean1207@gmail.com**
 
-- ⚡ Fun fact **My birthday lands on the first day of spring ;)**
+- ⚡ Fun fact **My birthday lands on the first day of spring**
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -68,7 +68,7 @@
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
       <br />
-        <a target="_blank" href="https://dev-ervin.netlify.app/">
+        <a target="_blank" href="https://ervin-dev.netlify.app/">
           <img src="https://media.giphy.com/media/bLQ6ITkWJPVQxrOrJ1/giphy.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
@@ -108,8 +108,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ervinn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ervinn_" height="30" width="40" /></a>
-<a href="https://twitter.com/ervn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ervn_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ervn12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ervn12" height="30" width="40" /></a>
+<a href="https://twitter.com/ervin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ervn_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ervindev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ervn12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
